@@ -1,3 +1,3 @@
 # STM32_IMU_PCB
 ##PCB
-!(./front pcb.png)
+![pcb design](./front pcb.png)
